@@ -2,6 +2,13 @@
  Toy Application Distributed Systems Assignment
  
 ## <ins>Group Members</ins>
+100386 Tyrone Rainer ICS 4 B
+
+100038 Marvin Okero  ICS 4 B
+
+090722  Victor Hinga  ICS 4 B
+
+097730  Walter Odhiambo ICS 4B
 
 
  
